@@ -1,0 +1,9 @@
+The x-y chart I shows the distance covered by Amit in five different races –A, B, C, D & E.
+
+
+The x-y chart II shows the time taken to cover these five races – A, B, C , D & E
+
+
+
+Based on the above charts answer the following questions.
+If Amit increased his speed by 10% then what is the time taken by Amit to finish the race D?
